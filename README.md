@@ -16,3 +16,11 @@ Data Preprocessing: Handling categorical data with Label Encoding.
 Model Training: Using DecisionTreeClassifier from Scikit-learn.
 Visualization: Plotting the decision tree structure.
 Evaluation: Using metrics like accuracy score, confusion matrix, and classification report.
+
+Technologies Used
+
+Python
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
